@@ -17,6 +17,7 @@ body {
     margin:0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:rgb(59, 50, 50);
+    text-align: center;
 }
 .my-things {
     height: fit-content;
@@ -26,9 +27,13 @@ body {
     font-weight: bolder;
     color: aliceblue;
     font-size: larger;
+    text-align: center;
+    padding:80px;
 }
 .list {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
     font-size: medium;
+    display: inline-block;
+    text-align: left;
 }
