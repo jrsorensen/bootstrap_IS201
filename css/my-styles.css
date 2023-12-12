@@ -37,3 +37,8 @@ body {
     display: inline-block;
     text-align: left;
 }
+.tableau {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
